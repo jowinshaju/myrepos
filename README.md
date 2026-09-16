@@ -1,2 +1,2 @@
 Welcome! This is my first Repo
-this is greet here!!
+this is a hello from both!
